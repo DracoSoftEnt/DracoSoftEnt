@@ -30,17 +30,14 @@ This profile is collaboratively managed by:
 
 ### 🐉 Founder / Owner
 - 👑 Sebas (Owner & Lead Developer)  
-  🔗 :contentReference[oaicite:0]{index=0}  
-
-### 💻 Development Team
+  🔗 https://github.com/sebastiantejedor
+  && Coming soon...
 - Software Engineering students  
 - Junior developers in training  
 - Collaborative tech contributors  
 
 We work together to build real-world projects, improve our skills, and grow as a development team.
-
 We grow by building real projects and learning through practice.
-
 
 ## What We Do
 
