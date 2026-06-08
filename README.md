@@ -28,9 +28,16 @@ We work together to design, develop, and implement functional and scalable proje
 
 This profile is collaboratively managed by:
 
+### 🐉 Founder / Owner
+- 👑 Sebas (Owner & Lead Developer)  
+  🔗 :contentReference[oaicite:0]{index=0}  
+
+### 💻 Development Team
 - Software Engineering students  
 - Junior developers in training  
-- Passionate tech collaborators  
+- Collaborative tech contributors  
+
+We work together to build real-world projects, improve our skills, and grow as a development team.
 
 We grow by building real projects and learning through practice.
 
@@ -59,16 +66,6 @@ We are currently working on:
 
 To grow as developers, improve our technical skills, and build a strong portfolio of real-world software projects.
 
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DracoSoft&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DracoSoft&theme=tokyonight" />
-</p>
 
 
 ## 🌐 Connect With Us
